@@ -59,7 +59,7 @@ e este projeto adere à [Semantic Versioning](https://semver.org/spec/v2.0.0.htm
 
 ## [1.0.2] 15-02-2019
 ### Changed
-- Referênciado corretamente os campos de agência e conta do destinatário.
+- Referênciados corretamente os campos de agência e conta do destinatário.
 
 ### Fixed
 - Transferência entre contas retorna a conta de origem.
