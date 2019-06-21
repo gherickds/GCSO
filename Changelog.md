@@ -1,7 +1,7 @@
 # Changelog
 Todas as mudanças deste projeto serão documentadas neste documento.
 
-O modelo deste é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
+O modelo deste é baseado em [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 e este projeto adere à [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 ## Unreleased
